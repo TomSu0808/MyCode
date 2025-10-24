@@ -6,4 +6,7 @@ Version 1.00:
 
 Version 2.00
   QT
-  Skin Weight and Skeletons json input&output
+  Skin Weight and Skeletons json input&output.
+
+Version 2.01
+  Please change the: sys.path.insert(0, r"yourDrive\yourPath") in order to use the tool, this command exist in multiple code files in this project.

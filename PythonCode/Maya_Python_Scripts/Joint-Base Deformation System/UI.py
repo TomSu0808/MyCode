@@ -1,5 +1,6 @@
 import sys
-sys.path.insert(0, r"G:\Utah EAE\StudyProject\SelfStudy\RiggingClassStudy\MyWorks\JointBasedMucleDeformation\Code\Complete\MuscleJointCode")
+//sys.path.insert(0, r"G:\Utah EAE\StudyProject\SelfStudy\RiggingClassStudy\MyWorks\JointBasedMucleDeformation\Code\Complete\MuscleJointCode")
+// Sure motify the file path above first
 from functools import partial
 import importlib
 
@@ -378,3 +379,4 @@ class UI_GRP(object):
 if __name__ == "__main__":
     class_grp = UI_GRP()
     class_grp.UI()
+
